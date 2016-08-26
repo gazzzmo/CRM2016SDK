@@ -1,21 +1,5 @@
 # Microsoft Dynamics CRM 2016 SDK
 
-Sample Code Readme
-
-Overview        1
-
-Instructions        1
-
-Samples that Require Additional User Accounts        1
-
-Known Issues        1
-
-Change History        1
-
-Copyright        1
-
-
-
 # Overview
 
 This document gives you information about how to build and run the samples included in this SDK. Typically, you open the sample&#39;s solution or project file in Microsoft Visual Studio 2012 or later and press **F5** to run a sample.
