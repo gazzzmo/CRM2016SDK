@@ -1,0 +1,11 @@
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\BasicOperations.exe.config
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\BasicOperations.exe
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\BasicOperations.pdb
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\Microsoft.IdentityModel.dll
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\obj\x86\Debug\OptionSets.csprojResolveAssemblyReference.cache
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\obj\x86\Debug\BasicOperations.exe
+C:\CRM\2016\SDK\SampleCode\CS\Metadata\OptionSets\obj\x86\Debug\BasicOperations.pdb
